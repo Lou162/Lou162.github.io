@@ -1,0 +1,71 @@
+#container_citation {
+    position: absolute;
+    background: #F5EFED;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 855px;
+    height: 380px;
+    border-radius: 25px;
+    margin: auto;
+    padding: 30px;
+    text-align: center;
+}
+button{
+    background-color : #E55934;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border: none;
+    width: 500px;
+    height: 100px;
+    border-radius: 25px;
+}
+#ecran{
+    width: 100%;
+    height: 100%;
+    background:#718F94;
+    padding: 30px;
+    align-content: space-around;
+}
+html, body{
+    height: 100%;
+	margin: 0;
+	padding: 0;
+}
+#texte{
+    display: inline-block;
+    padding: 100px;
+}
+p{
+    font : Arial;
+    text-align: center;
+}
+#citation{
+    font-size: 24px;
+}
+img{
+    
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    float: right;
+}
+button{
+    position: absolute;
+    text-align: center;
+    float: right;
+    
+    
+}
+#retour{
+    display: inline-block;
+    position: relative;
+    
+}
+span{
+    font-size: 24px;
+    font: Arial;
+}
